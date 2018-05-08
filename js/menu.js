@@ -1,0 +1,1 @@
+"use strict";!function(){var e=document.getElementById("humburger");e.addEventListener("click",function(){e.classList.toggle("posleft"),e.classList.toggle("change"),t.classList.toggle("open")});var t=document.getElementById("side-menu")}();
